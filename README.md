@@ -210,3 +210,9 @@ http://stackoverflow.com/questions/23102922/getting-gii-to-work-on-yii-2-0
 http://www.yiiframework.com/doc-2.0/guide-start-gii.html
 
 for views : @frontend\views\....
+
+
+https://github.com/onmotion/yii2-gallery
+
+https://github.com/yiisoft/yii2/issues/6402
+
