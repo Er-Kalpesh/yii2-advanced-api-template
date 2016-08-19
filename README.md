@@ -203,3 +203,6 @@ My work (Sandy Ganz) is licenced as WTFPL, which is NOT true for the original wo
 
 [![WTFPL](https://img.shields.io/badge/License-WTFPL-orange.svg)](http://www.wtfpl.net)
 [![Yii2](https://img.shields.io/badge/Powered_by-Yii_Framework-green.svg?style=flat)](http://www.yiiframework.com/)
+
+For GII
+http://stackoverflow.com/questions/23102922/getting-gii-to-work-on-yii-2-0
