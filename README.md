@@ -206,3 +206,5 @@ My work (Sandy Ganz) is licenced as WTFPL, which is NOT true for the original wo
 
 For GII
 http://stackoverflow.com/questions/23102922/getting-gii-to-work-on-yii-2-0
+http://www.yiiframework.com/doc-2.0/guide-start-gii.html
+for views : @frontend\views\....
